@@ -1,0 +1,105 @@
+/* Скидання стилів */
+@import url("reset.css");
+
+* {
+color: blue;
+}
+
+*
+p {
+color: chartreuse;
+}
+
+*
+a {
+color: crimson;
+}
+
+*
+li {
+color: darkgreen;
+}
+
+.text {
+	color: darkmagenta;
+}
+
+.lesson {
+color: deeppink;
+}
+
+#name1 {
+color: darkgoldenrod;
+}
+
+
+div.text {
+color: darkslategrey;
+}
+
+
+.text {
+color: chartreuse;
+}
+.lesson {
+color: coral;
+}
+
+
+.text a {
+color: blueviolet;
+}
+
+.text * {
+color: darkblue;
+}
+
+
+.text > p {
+color: blueviolet;
+}
+
+
+.text ~ p {
+color: coral;
+}
+
+
+.text + p {
+color: darkcyan;
+}
+
+[class*="__text"] {
+color: cornflowerblue;
+}
+
+
+*
+#name1-id {
+	color: rgb(130, 238, 184);
+}
+
+p.name2 {
+	color: rgb(255, 0, 0);
+}
+
+.text-p {
+	color: red;
+}
+
+p {
+	color: green;
+}
+
+* {
+	color: blue;
+}
+
+
+.link__contact {
+color: cyan;
+}
+[class*="__contact"] {
+color: chocolate;
+}
+
