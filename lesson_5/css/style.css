@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,600,700&display=swap");
+@import url("reset.css");
+
+body {
+	font-family: "Inter", cursive;
+	font-size: 18px; 
+	color: #000000; 
+}
+
+
+.title {
+	font-family: "Poppins", sans-serif;
+}
+
+.title {
+	font-size: 30px;
+}
+
+.title {
+front-style: oblique
+}
+
+.title, {
+	font-weight: 600;
+}
+
+.title {
+	color: #37393f;
+
+}
+
+.title {
+	text-align: center;
+}
+
+
+.title.text1 {
+text-transform: capitalize;
+font-weight: 692px;
+font-heiht: 86px;
+font-family: "Poppins",sans-serif;
+font-size: 30px;
+color: #000;
+
+}
+.title.text {
+font-weight: 692px;
+font-weight: 54px;
+font-family: "Poppins",sans-serif;
+font-size: 20px;
+color: blue;
+margin-bottom: 42px;
+text-align: left;
+}
+
+.class text {
+font-weight: 692px;
+font-heiht: 54px;
+font-family: "Poppins",sans-serif;
+font-size: 30px;
+color: #000;
+}
+
+.class class blok1 {
+font-weight: 800px;
+font-weight: 106px;
+font-family: Inter;
+font-size: 20px;
+color: #7D7D7D;;
+text-align: left;
+
+}
+
+
+
+
+
+/*
+Визначає міжрядковий інтервал (відстань) (висота рядка)
+line-height: значення;
+Перевести пікселі в частини:
+значення line-height поділити на значення font-size
+успадковується (текстом, лише якщо задані частини)
+*/
+
+.title.text {
+	line-height: 1.27; 
+}
+
+
+
+/*
+Встановлює інтервал між літерами (символами)
+letter-spacing: значення;
+успадковується (текстом)
+*/
+
+.title {
+	/* letter-spacing: 5px; */
+}
+
+/*
+Встановлює інтервал між словами
+word-spacing: значення;
+успадковується (текстом)
+*/
+
+.title {
+	/* word-spacing: 5px; */
+}
+
+/*
+Червоний рядок. Встановлює відступ зліва у першого рядка тексту
+text-indent: значення;
+успадковується (текстом)
+*/
+
+.text {
+	/* text-indent: 30px; */
+}
+
+/*
+Керує поведінкою пробілів між словами
+white-space: значення;
+nowrap - забороняє переніс рядка
+normal - (за замовчунням) не змінює (або відмініє) значення
+успадковується (текстом)
+*/
+
+.title {
+	/* white-space: nowrap; */
+}
