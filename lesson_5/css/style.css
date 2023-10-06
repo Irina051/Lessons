@@ -45,7 +45,7 @@ body {
 .title.text1 {
 	color: #37393F;
 	font-family: Poppins;
-	font-width: 692px;
+	font-width: 692;
 	font-size: 30px;
 	font-style: normal;
 	font-weight: 600;
@@ -57,7 +57,7 @@ body {
 .text.text {
 	text-transform: capitalize;
 	font-weight: 692;
-	font-weight: 104px;
+	font-weight: 104;
 	font-family: "Inter",sans-serif;
 	font-size: 18px;
 	color: #7D7D7D;
