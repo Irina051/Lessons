@@ -1,0 +1,135 @@
+/* Підключення шрифтів */
+@import url("fonts.css");
+
+/* Скидання стилів */
+@import url("reset.css");
+
+
+body {
+	
+	font-family: "Inter", sans-serif;
+	color: #7d7d7d;
+	font-size: 18px;
+
+}
+
+
+
+.block {
+	padding: 50px 15px;
+	max-width: 722px;
+	margin: 0 auto;
+}
+.image {
+	margin-bottom: 37px;
+}
+
+.image,
+.image-benefits {
+	max-width: 100%;
+}
+.title,
+.sub-title,
+.title-benefits,
+.sub-title-benefits {
+	font-family: "Poppins", sans-serif;
+}
+
+.title {
+	color: #37393f;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 1.27;
+	margin-bottom: 12.5px;
+}
+.text {
+	line-height: 1.46;
+	margin-bottom: 40px;
+}
+.text p {
+	margin-bottom: 15px;
+}
+.sub-title {
+	color: #6b77e5;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 1.27;
+	margin-bottom: 12px;
+}
+.benefits {
+	font-size: 0;
+	margin-bottom: 48px;
+}
+.image-benefits {
+	width: 331px;
+	margin-right: 29px;
+}
+.content-benefits {
+	display: inline-block;
+	width: 332px;
+	font-size: 18px;
+}
+.title-benefits {
+	color: #37393f;
+	font-size: 25px;
+	line-height: 1.27;
+	font-weight: 600;
+	margin-bottom: 15px;
+}
+.sub-title-benefits {
+	color: #40ddb6;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.27;
+	margin-bottom: 23.5px;
+}
+.list-benefits li {
+	margin-bottom: 35px;
+}
+
+.block2 {
+background: #fff9f4;
+max-width: 565px;
+display: inline-block;
+vertical-align: top;
+padding: 21px 0;
+margin: 0 38px 0 0;
+
+}
+
+
+.sub-title-sub {
+	font-size: 28px;
+	color: #d06b00;
+	text-transform: uppercase;
+	line-height: normal;
+	margin: 0 0 13px 0;
+}
+
+.title-title {
+	font-family: "DM Serif Text", serif;
+	font-size: 59px;
+	line-height: 1.46;
+	color: #0e333d;
+	margin-bottom: 25px;
+	text-transform: capitalize;
+}
+
+.text-text {
+	color: #474747;
+	line-height: 1.8;
+
+}
+
+.image-rectangle
+{
+	
+	max-width: 273px;
+   width: 100%;
+}
+
+.image-rectangle1
+{
+max-width: 568px;
+display: inline-block;
+}
